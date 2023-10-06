@@ -3,3 +3,5 @@ Aranha
 Esqueleto
 Drácula
 Caçador
+Princesa
+Filha do Drácula
